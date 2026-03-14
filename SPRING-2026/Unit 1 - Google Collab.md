@@ -1,33 +1,4 @@
-# Week 1 — Getting Started with Google Colab
-
-**Machine Learning Foundations**  
-**Build with AI Study Jams | C1**  
-**Hosted by Google Developer Group at FIU**
-
-## Event information
-
-**Location**  
-FIU Everglades Hall  
-1st Floor – MPR
-
-**Time**  
-To be announced
-
-**Updates and workshop details**  
-See: **GDGatFIU.vercel.app**
-
-## Who is this for?
-
-This workshop is for complete beginners.
-You do **not** need any machine learning experience.
-
-Open to:
-- all majors
-- all universities
-- anyone who wants to start learning hands-on
-
-## Workshop title
-**Getting Started with Google Colab for Machine Learning**
+**Week 1 - Getting Started with Google Colab for Machine Learning**
 
 ## What this workshop is about
 Week 1 is all about getting comfortable with the main tool we will use during the series: **Google Colab**.
