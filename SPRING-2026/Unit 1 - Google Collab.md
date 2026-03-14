@@ -1,11 +1,6 @@
 ## **Week 1 - Getting Started with Google Colab for Machine Learning**
 
-**Machine Learning Foundations**  
-**Build with AI Study Jams | C1**  
-**Hosted by Google Developer Group at FIU**
-
-## What this workshop is about
-Week 1 is all about getting comfortable with the main tool we will use during the series: **Google Colab**.
+This week is all about getting comfortable with the main tool we will use during the series: **Google Colab**.
 
 Instead of starting with difficult machine learning theory, we start with the workspace where we will write code, take notes, and test ideas.
 
