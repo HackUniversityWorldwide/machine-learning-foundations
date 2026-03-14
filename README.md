@@ -18,13 +18,7 @@ This series is designed to feel approachable:
 - short, guided activities
 - learn while building
 
-## Event information
-
-**Location**  
-FIU Everglades Hall  
-1st Floor – MPR
-
-**Updates, event details, and access info**  
+## Updates, event details, and access info
 See: **GDGatFIU.vercel.app**
 
 ## What is in this repository
