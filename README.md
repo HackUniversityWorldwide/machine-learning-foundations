@@ -24,9 +24,6 @@ This series is designed to feel approachable:
 FIU Everglades Hall  
 1st Floor – MPR
 
-**Time**  
-To be announced
-
 **Updates, event details, and access info**  
 See: **GDGatFIU.vercel.app**
 
