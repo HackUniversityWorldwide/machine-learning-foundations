@@ -188,24 +188,7 @@ Before building a machine learning model, we usually:
 
 ---
 
-### Part 8 — Mini activity
-Try changing the dataset.
-
-#### Task ideas
-- add one more student
-- change the column names
-- create a new dataset about sleep hours and mood
-- print the average score
-
-Example:
-
-```python
-print(df["Exam_Score"].mean())
-```
-
----
-
-### Part 9 — Save your work
+### Part 8 — Save your work
 At the end of the workshop:
 - rename your notebook clearly
 - save it to Google Drive
