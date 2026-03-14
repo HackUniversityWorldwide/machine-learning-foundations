@@ -1,4 +1,4 @@
-**Week 1 - Getting Started with Google Colab for Machine Learning**
+## **Week 1 - Getting Started with Google Colab for Machine Learning**
 
 ## What this workshop is about
 Week 1 is all about getting comfortable with the main tool we will use during the series: **Google Colab**.
